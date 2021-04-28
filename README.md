@@ -1,5 +1,5 @@
-### 안녕하세요. 사용자 경험에 관심이 많은 iOS 개발자 정지현입니다 👋
-
+### Hi there 👋
+I'm Jihyeon and I'm currently working on several iOS App Development projects. 
 <!--
 **jihyundev/jihyundev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
