@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on WishPlanet iOS project. 
-- 🌱 I’m currently learning Angular, Typescript, HTML5 and several Design Patterns. 
+- 🔭 I’m currently working on Jaranda. 
+- 🌱 I’m interested in Angular, Typescript, and Design Patterns. 
 
  
 <!--
