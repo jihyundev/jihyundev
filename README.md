@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Jaranda. 
-- 🌱 I’m interested in Angular, Typescript, and Design Patterns. 
+- 🔭 Currently working on Jaranda. 
+- 🌱 Interested in refactoring codes, writing readable documents, and improving productivity. 
 
  
 <!--
@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jihyundev)](https://github.com/jihyundev)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jihyundev)](https://github.com/jihyundev)
+ -->
