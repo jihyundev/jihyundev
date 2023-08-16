@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Currently working on Jaranda. 
+- 🔭 Mostly worked in e-commerce, education startups. 
 - 🌱 Interested in refactoring codes, writing readable documents, and improving productivity. 
 
  
